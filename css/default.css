@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  width: 90%;
+  margin: 0 auto;
+}
+header {
+  height: 85px;
+  line-height: 85px;
+  background: #f16b99;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 20px;
+  width: 100%;
+}
+footer{
+  width: 100%;
+  margin-top: 12px;
+}
+.footer{
+  height: 85px;
+  line-height: 85px;
+  background: #000;
+  text-align: center;
+  color: #fff;
+}
+.footer a{
+  color: #f16b99;
+  font-size: 0.8em;
+}
+h3{
+  color: #f16b99;
+  margin-top: 15px;
+}
+
+p{
+  line-height: 2.5;
+}
