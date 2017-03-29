@@ -32,4 +32,4 @@ Github:[https://github.com/hopeelephant](https://github.com/hopeelephant)
 ### 经验总结
 
 - blog ：[http://www.cnblogs.com/hopeelephant/](http://www.cnblogs.com/hopeelephant/)
-- nptebook :[https://hopeelephant.github.io/notebook/](https://hopeelephant.github.io/notebook/)
+- notebook :[https://hopeelephant.github.io/notebook/](https://hopeelephant.github.io/notebook/)
