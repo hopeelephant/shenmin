@@ -26,6 +26,7 @@ footer{
 }
 footer p{
   line-height: 85px;
+  margin-bottom: 0;
 }
 footer a{
   color: #f16b99;
