@@ -24,6 +24,9 @@ footer{
   text-align: center;
   color: #fff;
 }
+footer p{
+  line-height: 85px;
+}
 footer a{
   color: #f16b99;
   font-size: 0.8em;
